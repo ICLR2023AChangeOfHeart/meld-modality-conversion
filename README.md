@@ -13,7 +13,9 @@ The method consists of two steps:
 The repository contains two Jupyter notebooks:
 
 `notebook1.ipynb`: Contains the code for downloading the MELD dataset and the modality conversion. The notebook uses Vosk to convert speech to text.
+
 `notebook2.ipynb`: Contains the code for the BERT-based emotion classifier.
+
 The CSV files containing the converted versions of speeches are also included in the repository along with the notebooks.
 
 ## Usage
